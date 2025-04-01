@@ -1,0 +1,17 @@
+Card Game: War
+
+- Cards -> class
+    - number
+    - suits (spades, clubs, hearts, diamonds)
+- Deck -> class
+    - holds the cards -> array/lists
+    - player 1 and player 2 take turns putting the top card ion the middle to compare -> if statement
+        - if player 1 card is higher, player 1 gets the cards
+        - else if player 2 card is higher, player 2 gets the cards
+        - else if player 1 and player 2 have the same cards, go to War
+        - war logic: 3 cards face down, compare the 4th cards with if statement
+        - what happens with cards that are won? bottom of the array (cards in hand)? or in another array, then when no more cards in hand,
+          shuffle and add to hand?
+-Shuffle cards -> function, use Random function to shuffle array indexes
+-War -> class
+    - contains game logic

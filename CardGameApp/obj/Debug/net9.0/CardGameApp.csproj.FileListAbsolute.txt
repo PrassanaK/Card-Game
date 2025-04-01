@@ -1,0 +1,14 @@
+P:\Programming Projects\Card Game\CardGameApp\bin\Debug\net9.0\CardGameApp.exe
+P:\Programming Projects\Card Game\CardGameApp\bin\Debug\net9.0\CardGameApp.deps.json
+P:\Programming Projects\Card Game\CardGameApp\bin\Debug\net9.0\CardGameApp.runtimeconfig.json
+P:\Programming Projects\Card Game\CardGameApp\bin\Debug\net9.0\CardGameApp.dll
+P:\Programming Projects\Card Game\CardGameApp\bin\Debug\net9.0\CardGameApp.pdb
+P:\Programming Projects\Card Game\CardGameApp\obj\Debug\net9.0\CardGameApp.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programming Projects\Card Game\CardGameApp\obj\Debug\net9.0\CardGameApp.AssemblyInfoInputs.cache
+P:\Programming Projects\Card Game\CardGameApp\obj\Debug\net9.0\CardGameApp.AssemblyInfo.cs
+P:\Programming Projects\Card Game\CardGameApp\obj\Debug\net9.0\CardGameApp.csproj.CoreCompileInputs.cache
+P:\Programming Projects\Card Game\CardGameApp\obj\Debug\net9.0\CardGameApp.dll
+P:\Programming Projects\Card Game\CardGameApp\obj\Debug\net9.0\refint\CardGameApp.dll
+P:\Programming Projects\Card Game\CardGameApp\obj\Debug\net9.0\CardGameApp.pdb
+P:\Programming Projects\Card Game\CardGameApp\obj\Debug\net9.0\CardGameApp.genruntimeconfig.cache
+P:\Programming Projects\Card Game\CardGameApp\obj\Debug\net9.0\ref\CardGameApp.dll
